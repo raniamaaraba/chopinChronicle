@@ -31,3 +31,5 @@ running:
 use >npm run dev
 or
 view on netlify: https://chopinchronicle.netlify.app/
+
+※ note! attached is the raw zip as well as the compiled dist that is pre-compiled
