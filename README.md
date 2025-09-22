@@ -26,3 +26,8 @@ although there is compatibility for the user to add their own events--this featu
 user-logging activites:
 <img width="1512" height="753" alt="Screenshot 2025-09-22 at 09 09 04" src="https://github.com/user-attachments/assets/987eaae4-b2e8-40e0-8237-0cdd59d9ea7a" />
 log a little synopsis of your favourite listens, new music reccomendations, and which era you are tending to listen to!
+
+running:
+use >npm run dev
+or
+view on netlify: https://chopinchronicle.netlify.app/
